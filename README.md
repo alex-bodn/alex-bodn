@@ -14,7 +14,7 @@
 ### 🛠 My Open Source Projects
 
 - [EasyFile](https://easyfile.vercel.app/)
-- EasyInvest - soon
+- [EasyInvest](https://easyinvest-kappa.vercel.app/)
 - Portofilio Page - soon
 
 ---
